@@ -251,10 +251,10 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
-	width: 60%;
+	width: 56%;
     border-radius: 20px;
     float: left;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 
 #featured figure {
@@ -279,8 +279,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 60%;
-    margin-left: 10%;
+	width: 56%;
+    margin-left: 4%;
     float: left;
 	
 }
