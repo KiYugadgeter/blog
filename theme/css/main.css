@@ -17,6 +17,7 @@
 .right {
     float: right;
     width: 20%;
+    min-width: 68px;
 }
 /***** Global *****/
 /* Body */
@@ -398,7 +399,7 @@ aside#featured img {
 /* Blog */
 
 .entry-content {
-    width: 80%;
+    width: 70%;
 }
 
 .hentry {
