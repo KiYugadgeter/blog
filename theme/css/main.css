@@ -272,6 +272,11 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #featured h3 a:link, #featured h3 a:visited {color: #000305; text-decoration: none;}
 #featured h3 a:hover, #featured h3 a:active {color: #fff;}
 
+aside#featured img {
+    width: 50%;
+    height: 50%;
+}
+
 /*
     Body
 *****************/
@@ -391,6 +396,11 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 /***** Sections *****/
 /* Blog */
+
+.entry-content {
+    width: 80%;
+}
+
 .hentry {
     display: block;
     clear: both;
