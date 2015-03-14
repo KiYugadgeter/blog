@@ -255,7 +255,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
     border-radius: 20px;
     float: left;
     margin-left: 5%;
-    clear: right;
+    clear: left;
 }
 
 #featured figure {
